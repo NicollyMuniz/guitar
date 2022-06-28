@@ -1,0 +1,394 @@
+body{
+    background-image: linear-gradient(to right, #878787,#464646, #0c0c0c, #000000);
+}
+.topo{
+    background-color: #FFD600;
+    top: 0vw;
+    height: 10vh;
+    width: 207vh;
+    right: 0vh;
+    position: absolute;
+}
+.lateral{
+    background-color: #CDB76B;
+    top: 10vh;
+    height: 90vh;
+    width: 17vh;
+    left: 0vh;
+    position: absolute;
+}
+.guitarra{
+    color: #000000;
+    font-size: 9vh;
+    font-family: 'Magneto';
+    position: relative;
+    text-align: center;
+}
+#im_inicio{
+    top: 11vh;
+    height: 88vh;
+    right: 0vh;
+    position: absolute;
+}
+.t1{
+    top: 30vh;
+    width: 95vh;
+    left: 19vh;
+    font-size: 6vh;
+    font-family: 'Franklin Gothic Book';
+    color: #ffd600;
+    position: absolute;
+}
+.menu{
+    top: 10vh;
+    width: 15vh;
+    left: 1.3vh;
+    font-size: 2.5vh;
+    position: absolute;
+}
+a:link{
+    color: #000000;
+    font-family: 'Franklin Gothic Book';
+}
+.texta1{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 12vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+#C{
+    top: 20vh;
+    left: 20vh;
+    width: 18vh;
+    position: absolute;
+}
+#D{
+    top: 20vh;
+    left: 40vh;
+    width: 18vh;
+    position: absolute;
+}
+#E{
+    top: 20vh;
+    left: 60vh;
+    width: 21.5vh;
+    position: absolute;
+}
+#F{
+    top: 20vh;
+    left: 84vh;
+    width: 21.7vh;
+    position: absolute;
+}
+#G{
+    top: 20vh;
+    left: 108vh;
+    width: 18vh;
+    position: absolute;
+}
+#A{
+    top: 20vh;
+    left: 128.5vh;
+    width: 21vh;
+    position: absolute;
+}
+#B{
+    top: 20vh;
+    left: 152vh;
+    width: 17.5vh;
+    position: absolute;
+}
+.texta2{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 50vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+#acmenores{
+    top: 56vh;
+    left: 20vh;
+    width: 80vh;
+    position: absolute;
+}
+.laterala{
+    background-color: #CDB76B;
+    top: 10vh;
+    height: 220vh;
+    width: 17vh;
+    left: 0vh;
+    position: absolute;
+}
+.texta3{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 100vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+#acsust{
+    top: 107vh;
+    left: 20vh;
+    width: 80vh;
+    position: absolute;
+}
+.texta4{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 163vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute
+}
+#acsustmen{
+    top: 170vh;
+    left: 20vh;
+    width: 80vh;
+    position: absolute;
+}
+.texte1{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 12vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+.laterale{
+    background-color: #CDB76B;
+    top: 10vh;
+    height: 450vh;
+    width: 17vh;
+    left: 0vh;
+    position: absolute;
+}
+#ex1{
+    top: 25vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte2{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 17.8vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+.texte3{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 80vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex2{
+    top: 88vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte4{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 144vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex3{
+    top: 152vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte5{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 208vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex4{
+    top: 217vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte6{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 247vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex5{
+    top: 256vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte7{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 286vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex6{
+    top: 295vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte8{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 350vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex7{
+    top: 358vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.texte9{
+    font-size: 2.8vh;
+    font-family: 'Franklin Gothic Book';
+    top: 413vh;
+    left: 22vh;
+    color: #ffffff;
+    position: absolute;
+}
+#ex8{
+    top: 422vh;
+    left: 30vh;
+    width: 120vh;
+    position: absolute;
+}
+.laterales{
+    background-color: #CDB76B;
+    top: 10vh;
+    height: 190vh;
+    width: 17vh;
+    left: 0vh;
+    position: absolute;
+}
+.textes{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 12vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+#mg{
+    top: 20vh;
+    left: 25vh;
+    width: 75vh;
+    position: absolute;
+}
+.textes1{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 12vh;
+    left: 105vh;
+    color: #ffffff;
+    position: absolute;
+}
+#caged{
+    top: 20vh;
+    left: 105vh;
+    width: 60.3vh;
+    position: absolute;
+}
+.textes2{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 115vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+#penta{
+    top: 125vh;
+    left: 25vh;
+    width: 75vh;
+    position: absolute;
+}
+.textes3{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 115vh;
+    left: 105vh;
+    color: #ffffff;
+    position: absolute;
+}
+#pentam{
+    top: 125vh;
+    left: 105vh;
+    width: 60.3vh;
+    height: 20vh;
+    position: absolute;
+}
+.textm{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 12vh;
+    left: 20vh;
+    color: #ffffff;
+    position: absolute;
+}
+.textm1{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Book';
+    top: 20vh;
+    left: 20vh;
+    width: 90vh;
+    color: #ffffff;
+    position: absolute;
+}
+.lateralm{
+    background-color: #CDB76B;
+    top: 10vh;
+    height: 178vh;
+    width: 17vh;
+    left: 0vh;
+    position: absolute;
+}
+#strato{
+    top: 23vh;
+    left: 120vh;
+    width: 26vh;
+    position: absolute;
+}
+#tele{
+    top: 63vh;
+    left: 120vh;
+    width: 26vh;
+    position: absolute;
+}
+#lespaul{
+    top: 98vh;
+    left: 120vh;
+    width: 26vh;
+    position: absolute;
+}
+#semi{
+    top: 138vh;
+    left: 120vh;
+    width: 26vh;
+    position: absolute;
+}
